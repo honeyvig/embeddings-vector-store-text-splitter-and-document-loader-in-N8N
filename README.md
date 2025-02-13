@@ -1,0 +1,1 @@
+# embeddings-vector-store-text-splitter-and-document-loader-in-N8N
